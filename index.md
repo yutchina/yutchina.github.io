@@ -13,7 +13,7 @@ I am a first-year graduate student at Wuhan University. I possess solid theoreti
 - **Duration:** September 2020 - June 2024
   
 ## Some Research:
-- MMDFND: Multi-modal Multi-Domain Fake News Detection. Tong Yu and Lu Weihai and Zhao Zhe and Lai Song and Shi Tong, accepted by the ACM Multimedia 2024 (CCF-A).
+- MMDFND: Multi-modal Multi-Domain Fake News Detection. Tong Yu and Lu Weihai and Zhao Zhe and Lai Song and Shi Tong, accepted by the ACM Multimedia 2024, (CCF-A).
 - Article about Multimodal Fake News Detection. Submitted to Annual AAAI Conference on Artificial Intelligence, (CCF-A, under review)
 - Article about CLIP Prompt Fine-tuning. Submitted to Annual AAAI Conference on Artificial Intelligence, (CCF-A, under review)
 - Article about Evolution of Graph Data Enhancement Algorithm Using LLM. Submitted to Annual AAAI Conference on Artificial Intelligence, (CCF-A, under review)
