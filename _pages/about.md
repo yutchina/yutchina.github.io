@@ -42,7 +42,7 @@ I am a first-year graduate student at Wuhan University, honored to be mentored b
 
 **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Evolutionary Method**
 
-**Zihao Pan$^\dagger$**, Yu Tong$^\dagger$, Weibin WU$^*$, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow
+Zihao Pan$^\dagger$, **Yu Tong$^\dagger$**, Weibin WU$^*$, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow
 
 ($\dagger$ means equal contribution to this work)
 
