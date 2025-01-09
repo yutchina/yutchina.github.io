@@ -37,6 +37,22 @@ I am a first-year graduate student at Wuhan University, honored to be mentored b
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://s2.loli.net/2024/11/18/K62cufowMpLJy3H.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Evolutionary Method**
+
+**Zihao Pan$^\dagger$**, Yu Tong$^\dagger$, Weibin WU$^*$, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow
+
+($\dagger$ means equal contribution to this work)
+
+Under Review
+
+[PDF] [code]
+ 
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2024.11* National Mathematical Modeling Contest for Postgraduates, National Second Prize.
 - *2023.11* National Scholarship.
