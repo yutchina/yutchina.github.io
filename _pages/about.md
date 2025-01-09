@@ -41,13 +41,13 @@ PDF [code](https://github.com/luweihai/DAMMFND)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/acmmm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MMDFND: Multi-modal Multi-Domain Fake News Detection](https://dl.acm.org/doi/pdf/10.1145/3664647.3681317)
+[MMDFND: Multi-modal Multi-Domain Fake News Detection](https://dl.acm.org/doi/abs/10.1145/3664647.3681317)
 
 **Yu Tong$^\dagger$**, Weihai Lu$^\dagger$, Zhe Zhao, Song Lai, Tong Shi
 
 ($\dagger$ means equal contribution to this work)
 
-[PDF](https://dl.acm.org/doi/abs/10.1145/3664647.3681317) [code](https://github.com/yutchina/MMDFND)
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3664647.3681317) [code](https://github.com/yutchina/MMDFND)
 </div>
 </div>
 
