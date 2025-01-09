@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year graduate student at Wuhan University, honored to be mentored by Professor [Kaiyang Zhou](https://kaiyangzhou.github.io/). My research interests include **multimodal learning** and **computer vision**.
+I am a first-year graduate student at Wuhan University, honored to be mentored by Professor [Kaiyang Zhou](https://kaiyangzhou.github.io/) and Professor [Shuai Yang](https://williamyang1991.github.io/). My research interests include **multimodal learning** and **computer vision**.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 A paper has been accepted by AAAI.
