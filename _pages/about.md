@@ -35,7 +35,6 @@ I am a first-year graduate student at Wuhan University, honored to be mentored b
 ($\dagger$ means equal contribution to this work)
 
 [PDF](https://dl.acm.org/doi/abs/10.1145/3664647.3681317) [code](https://github.com/yutchina/MMDFND)
-[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Q4z0ZZoAAAAJ&citation_for_view=Q4z0ZZoAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
