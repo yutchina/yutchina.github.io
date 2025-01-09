@@ -24,7 +24,7 @@ I am a first-year graduate student at Wuhan University, honored to be mentored b
 - *2024.07*: &nbsp;🎉🎉 A paper has been accepted by ACM MM.
  
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 25</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 25</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DAMMFND: Domain-Aware Multimodal Multi-view Fake News Detection]([https://dl.acm.org/doi/pdf/10.1145/3664647.3681317](https://aaai.org/conference/aaai/aaai-25/))
@@ -37,7 +37,7 @@ Weihai Lu$^\dagger$, **Yu Tong$^\dagger$**, Zhiqiu Ye
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/acmmm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MMDFND: Multi-modal Multi-Domain Fake News Detection](https://dl.acm.org/doi/pdf/10.1145/3664647.3681317)
