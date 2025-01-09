@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year graduate student at Wuhan University. I possess solid theoretical knowledge and practical experience in computer vision (CV) and natural language processing (NLP). 
+I am a first-year graduate student at Wuhan University, honored to be mentored by Professor [Kaiyang Zhou](https://kaiyangzhou.github.io/). My research interests include **multimodal learning** and **computer vision**.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 A paper has been accepted by AAAI.
@@ -28,7 +28,7 @@ I am a first-year graduate student at Wuhan University. I possess solid theoreti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://dl.acm.org/doi/pdf/10.1145/3664647.3681317)
+[MMDFND: Multi-modal Multi-Domain Fake News Detection](https://dl.acm.org/doi/pdf/10.1145/3664647.3681317)
 
 **Yu Tong**, Weihai Lu, Zhe Zhao, Song Lai, Tong Shi
 
@@ -39,17 +39,14 @@ I am a first-year graduate student at Wuhan University. I possess solid theoreti
 
 # 🎖 Honors and Awards
 - *2024.11* National Mathematical Modeling Contest for Postgraduates, National Second Prize.
+- *2023.11* National Scholarship.
 - *2023.05* Mathematical Contest In Modeling, Honorable Mention.
 - *2022.11* China Undergraduate Mathematical Contest in Modeling, First Prize in Anhui Province.
 - *2022.08* China College Student Statistical Modeling Competition, First Prize in Anhui Province.
 
 # 📖 Educations
-- *2024.06 - 2025.01 (now)*, Wuhan university.
-- *2020.09 - 2024.06*, Anhui University.
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.06 - 2025.01 (now)*, Master, Wuhan university.
+- *2020.09 - 2024.06*, Undergraduate, Anhui University.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.06 - 2024.12*, [SUSTech](https://stat-ds.sustech.edu.cn/), China.
