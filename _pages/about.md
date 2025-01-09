@@ -22,7 +22,7 @@ I am a first-year graduate student at Wuhan University, honored to be mentored b
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 A paper has been accepted by AAAI.
 - *2024.07*: &nbsp;🎉🎉 A paper has been accepted by ACM MM.
-- *2023.11*: &nbsp;🎉🎉 Awarded the prestigious [Chinese National Scholarship](https://baike.baidu.com/item/%E5%9C%8B%E5%AE%B6%E7%8D%8E%E5%AD%B8%E9%87%91/9693046) (Top 0.2%, nationwide).
+- *2023.11*: &nbsp;🎉🎉 Awarded the [Chinese National Scholarship](https://baike.baidu.com/item/%E5%9C%8B%E5%AE%B6%E7%8D%8E%E5%AD%B8%E9%87%91/9693046) (Top 0.2%, nationwide).
  
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 25</div><img src='images/AAAI.png' alt="sym" width="100%"></div></div>
