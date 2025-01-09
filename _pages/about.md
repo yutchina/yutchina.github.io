@@ -79,4 +79,5 @@ PDF code
 - *2020.09 - 2024.06*, Undergraduate, Anhui University.
 
 # 💻 Internships
+- *2025.01 - now*, HKBU, China.
 - *2024.06 - 2024.12*, [SUSTech](https://stat-ds.sustech.edu.cn/), China.
