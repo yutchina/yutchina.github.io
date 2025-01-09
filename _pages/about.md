@@ -33,7 +33,7 @@ Weihai Lu$^\dagger$, **Yu Tong$^\dagger$**, Zhiqiu Ye
 
 ($\dagger$ means equal contribution to this work)
 
-[PDF][code](https://github.com/luweihai/DAMMFND)
+PDF [code](https://github.com/luweihai/DAMMFND)
 </div>
 </div>
 
@@ -61,7 +61,7 @@ Zihao Pan$^\dagger$, **Yu Tong$^\dagger$**, Weibin WU$^*$, Jinyi Wang, Yitong Qi
 
 Under Review
 
-[PDF] [code]
+PDF code
  
 </div>
 </div>
