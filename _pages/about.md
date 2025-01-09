@@ -75,7 +75,7 @@ PDF code
 - *2022.08* China College Student Statistical Modeling Competition, First Prize in Anhui Province.
 
 # 📖 Educations
-- *2024.06 - 2025.01 (now)*, Master, Wuhan university.
+- *2024.06 - now*, Master, Wuhan university.
 - *2020.09 - 2024.06*, Undergraduate, Anhui University.
 
 # 💻 Internships
