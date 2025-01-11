@@ -69,6 +69,7 @@ PDF code
 
 # 🎖 Honors and Awards
 - *2024.11* National Mathematical Modeling Contest for Postgraduates, National Second Prize.
+- *2024.06* Outstanding Graduate of Anhui Province.
 - *2023.11* Chinese National Scholarship.
 - *2023.05* Mathematical Contest In Modeling, Honorable Mention.
 - *2022.11* China Undergraduate Mathematical Contest in Modeling, First Prize in Anhui Province.
