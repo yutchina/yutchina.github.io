@@ -22,7 +22,7 @@ I am a first-year graduate student in Wuhan University. My graduate supervisor i
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 A paper has been accepted by AAAI.
 - *2024.07*: &nbsp;🎉🎉 A paper has been accepted by ACM MM.
-- *2023.11*: &nbsp;🎉🎉 Awarded the [Chinese National Scholarship](https://baike.baidu.com/item/%E5%9C%8B%E5%AE%B6%E7%8D%8E%E5%AD%B8%E9%87%91/9693046) (Top 0.2%, nationwide).
+- *2023.11*: &nbsp;🎉🎉 Awarded the [National Scholarship](https://baike.baidu.com/item/%E5%9C%8B%E5%AE%B6%E7%8D%8E%E5%AD%B8%E9%87%91/9693046) (Top 0.2%, nationwide).
  
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 25</div><img src='images/AAAI.png' alt="sym" width="100%"></div></div>
@@ -70,14 +70,14 @@ PDF code
 # 🎖 Honors and Awards
 - *2024.11* National Mathematical Modeling Contest for Postgraduates, National Second Prize.
 - *2024.06* Outstanding Graduate of Anhui Province.
-- *2023.11* Chinese National Scholarship.
+- *2023.11* National Scholarship.
 - *2023.05* Mathematical Contest In Modeling, Honorable Mention.
 - *2022.11* China Undergraduate Mathematical Contest in Modeling, First Prize in Anhui Province.
 - *2022.08* China College Student Statistical Modeling Competition, First Prize in Anhui Province.
 
 # 📖 Educations
-- *2024.06 - now*, Master, Wuhan university.
-- *2020.09 - 2024.06*, Undergraduate, Anhui University.
+- *2024.09 - 2026.06 (expected)*, M.S. degree, Wuhan university.
+- *2020.09 - 2024.06*, B.S. degree, Anhui University.
 
 # 💻 Internships
 - *2025.01 - now*, HKBU, China.
