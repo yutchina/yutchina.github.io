@@ -25,6 +25,19 @@ I am a first-year graduate student in Wuhan University. My graduate supervisor i
 - *2023.11*: &nbsp;🎉🎉 Awarded the [National Scholarship](https://baike.baidu.com/item/%E5%9C%8B%E5%AE%B6%E7%8D%8E%E5%AD%B8%E9%87%91/9693046) (Top 0.2%, nationwide).
  
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/acmmm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MMDFND: Multi-modal Multi-Domain Fake News Detection](https://dl.acm.org/doi/abs/10.1145/3664647.3681317)
+
+**Yu Tong$^\dagger$**, Weihai Lu$^\dagger$, Zhe Zhao, Song Lai, Tong Shi
+
+($\dagger$ means equal contribution to this work)
+
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3664647.3681317) [code](https://github.com/yutchina/MMDFND)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 25</div><img src='images/AAAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,18 +51,28 @@ PDF [code](https://github.com/luweihai/DAMMFND)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/acmmm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='images/SIGIR97.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MMDFND: Multi-modal Multi-Domain Fake News Detection](https://dl.acm.org/doi/abs/10.1145/3664647.3681317)
+Diffusion-based Multi-modal Synergy Interest Network for Click-through Rate Prediction
 
-**Yu Tong$^\dagger$**, Weihai Lu$^\dagger$, Zhe Zhao, Song Lai, Tong Shi
+Xiaoxi Cui, Weihai Lu, **Yu Tong**, Yiheng Li and Zhejun Zhao	
 
-($\dagger$ means equal contribution to this work)
-
-[PDF](https://dl.acm.org/doi/pdf/10.1145/3664647.3681317) [code](https://github.com/yutchina/MMDFND)
+PDF code
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='images/SIGIR939.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Multi-Modal Multi-Behavior Sequential Recommendation with Conditional Diffusion-Based Feature Denoising
+
+Xiaoxi Cui, Weihai Lu, **Yu Tong**, Yiheng Li and Zhejun Zhao	
+
+PDF code
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src="https://s2.loli.net/2025/03/07/9iwZR7LyE5jVplr.png" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
