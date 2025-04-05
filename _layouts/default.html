@@ -10,7 +10,6 @@ layout: compress
   </head>
 
   <body>
-
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
@@ -22,12 +21,27 @@ layout: compress
         <div class="page__inner-wrap">
           <section class="page__content" itemprop="text">
             {{ content }}
+
+            <!-- 新增访客统计模块 -->
+            <div class="section-title">
+              <img src="images/telescope.jpg" alt="Icon" class="section-icon">
+              <h2 id="visitors">Visitors</h2>
+            </div>
+            <div class="boxed-section">
+              <ul>
+                <script 
+                  type="text/javascript" 
+                  id="clustrmaps" 
+                  src="//clustrmaps.com/map_v2.js?d=Wav6b_Af0g5wX1gmeQIfuUx5Rsczz9DxcCIANcUIwWQ">
+                </script>
+              </ul>
+            </div>
+
           </section>
         </div>
       </article>
     </div>
 
     {% include scripts.html %}
-
   </body>
 </html>
