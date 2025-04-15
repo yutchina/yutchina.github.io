@@ -48,7 +48,7 @@ Weihai Lu$^\dagger$, **Yu Tong$^\dagger$**, Zhiqiu Ye
 
 ($\dagger$ means equal contribution to this work)
 
-PDF [code](https://github.com/luweihai/DAMMFND)
+[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32036) [code](https://github.com/luweihai/DAMMFND)
 </div>
 </div>
 
