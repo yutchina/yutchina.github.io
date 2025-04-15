@@ -42,7 +42,7 @@ I am a first-year graduate student in Wuhan University. My graduate supervisor i
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 25</div><img src='images/AAAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DAMMFND: Domain-Aware Multimodal Multi-view Fake News Detection](https://aaai.org/conference/aaai/aaai-25/)
+[DAMMFND: Domain-Aware Multimodal Multi-view Fake News Detection](https://ojs.aaai.org/index.php/AAAI/article/view/32036)
 
 Weihai Lu$^\dagger$, **Yu Tong$^\dagger$**, Zhiqiu Ye
 
