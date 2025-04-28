@@ -92,7 +92,7 @@ PDF code
 </div>
 
 # 📝 Publications in Applied Mathematics​
-童宇,叶知秋,陈华友.[模糊信息协同相关IOWGA算子区间组合预测模型](https://d.wanfangdata.com.cn/periodical/Ch9QZXJpb2RpY2FsQ0hJTmV3UzIwMjUwMTE2MTYzNjE0EhN3aHFjZ3lkeHhiMjAyNDA0MDE3Ggg3dGY2Zmsxag%253D%253D)[J].武汉理工大学学报(信息与管理工程版),2024,46(04):625-630.
+**童宇**,叶知秋,陈华友.[模糊信息协同相关IOWGA算子区间组合预测模型](https://d.wanfangdata.com.cn/periodical/Ch9QZXJpb2RpY2FsQ0hJTmV3UzIwMjUwMTE2MTYzNjE0EhN3aHFjZ3lkeHhiMjAyNDA0MDE3Ggg3dGY2Zmsxag%253D%253D)[J].武汉理工大学学报(信息与管理工程版),2024,46(04):625-630.
 
 # 🎖 Honors and Awards
 - *2024.11* National Mathematical Modeling Contest for Postgraduates, National Second Prize.
