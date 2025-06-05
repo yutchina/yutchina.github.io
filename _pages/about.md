@@ -74,11 +74,21 @@ PDF code
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src="https://s2.loli.net/2025/03/07/9iwZR7LyE5jVplr.png" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Blind Spot Navigation: Evolutionary Discovery of Sensitive Semantic Concepts for LVLMs**
+Training-Free Watermarking for Autoregressive Image Generation
+
+Yu Tong, Zihao Pan, Shuai Yang, Kaiyang Zhou
+
+[PDF](https://arxiv.org/abs/2505.14673) [code](https://github.com/maifoundations/IndexMark)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src="https://s2.loli.net/2025/03/07/9iwZR7LyE5jVplr.png" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Blind Spot Navigation: Evolutionary Discovery of Sensitive Semantic Concepts for LVLMs
 
 Zihao Pan$^\dagger$, **Yu Tong$^\dagger$**, Weibin WU$^*$, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow
 
