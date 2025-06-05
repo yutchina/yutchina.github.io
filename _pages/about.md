@@ -79,7 +79,9 @@ PDF code
 
 Training-Free Watermarking for Autoregressive Image Generation
 
-Yu Tong, Zihao Pan, Shuai Yang, Kaiyang Zhou
+**Yu Tong**, Zihao Pan, Shuai Yang, Kaiyang Zhou
+
+Under Review
 
 [PDF](https://arxiv.org/abs/2505.14673) [code](https://github.com/maifoundations/IndexMark)
 </div>
