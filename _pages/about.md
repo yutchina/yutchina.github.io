@@ -27,6 +27,19 @@ I am a first-year graduate student in Wuhan University. My graduate supervisor i
 - *2023.11*: &nbsp;🎉🎉 Awarded the [National Scholarship](https://baike.baidu.com/item/%E5%9C%8B%E5%AE%B6%E7%8D%8E%E5%AD%B8%E9%87%91/9693046) (Top 0.2%, nationwide).
  
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/acmmm25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+DAPT: Domain-Aware Prompt-Tuning for Multimodal Fake News Detection
+
+**Yu Tong$^\dagger$**, Weihai Lu$^\dagger$, Xiaoxi Cui, Yifan Mao, Zhejun Zhao 
+
+($\dagger$ means equal contribution to this work)
+
+PDF code
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/acmmm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
