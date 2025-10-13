@@ -20,7 +20,7 @@ redirect_from:
 I am a first-year graduate student in Wuhan University. My graduate supervisor is [Prof. Hui Feng](https://maths.whu.edu.cn/info/1300/10007.htm). Currently, I am conducting 3d open world research under the guidance of [Prof. Kaiyang Zhou](https://kaiyangzhou.github.io/) and [Prof. Shuai Yang](https://williamyang1991.github.io/). My research interests include **multimodal learning** and **computer vision**.
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 Awarded the [National Scholarship]
+- *2025.10*: &nbsp;🎉🎉 Awarded the National Scholarship.
 - *2025.07*: &nbsp;🎉🎉 A paper has been accepted by ACM MM.
 - *2025.04*: &nbsp;🎉🎉 Two papers have been accepted by SIGIR.
 - *2024.12*: &nbsp;🎉🎉 A paper has been accepted by AAAI.
