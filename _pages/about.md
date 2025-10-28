@@ -37,7 +37,7 @@ DAPT: Domain-Aware Prompt-Tuning for Multimodal Fake News Detection
 
 ($\dagger$ means equal contribution to this work)
 
-PDF code
+[PDF](https://dl.acm.org/doi/abs/10.1145/3746027.3755192) code
 </div>
 </div>
 
