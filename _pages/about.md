@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year graduate student at Wuhan University. My graduate supervisor is [Prof. Hui Feng](https://maths.whu.edu.cn/info/1300/10007.htm). I am currently conducting research on multimodal understanding and generation under the guidance of [Prof. Kaiyang Zhou](https://kaiyangzhou.github.io/) and [Prof. Shuai Yang](https://williamyang1991.github.io/). My research interests include **multimodal learning** and **computer vision**. I am currently looking for PhD positions; please feel free to reach out if there is a potential match.
+I am a second-year graduate student at Wuhan University. My graduate supervisor is [Prof. Hui Feng](https://maths.whu.edu.cn/info/1300/10007.htm). I am currently conducting research on multimodal understanding and generation under the guidance of [Prof. Kaiyang Zhou](https://kaiyangzhou.github.io/) and [Prof. Shuai Yang](https://williamyang1991.github.io/). My research interests include **multimodal learning** and **computer vision**. <span style="color: red;">**I am currently looking for PhD positions; please feel free to reach out if there is a potential match.**</span>
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 Awarded the National Scholarship.
