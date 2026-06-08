@@ -137,7 +137,8 @@ Under Review
 - *2020.09 - 2024.06*, B.S. degree, Anhui University. (GPA: 4.27/5.00)
 
 # 💻 Internships
-- *2025.01 - now*, HKBU, China.
+- *2025.12 - 2026.06*, XIAOHONGSHU Inc., China.
+- *2025.01 - 2025.08*, HKBU, China.
 - *2024.06 - 2024.12*, [SUSTech](https://stat-ds.sustech.edu.cn/), China.
 
 # 🌏 Visitors
