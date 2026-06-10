@@ -104,7 +104,7 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src="https://s2.loli.net/2025/03/07/9iwZR7LyE5jVplr.png" alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src="https://s2.loli.net/2025/03/07/9iwZR7LyE5jVplr.png" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Blind Spot Navigation: Evolutionary Discovery of Sensitive Semantic Concepts for LVLMs
@@ -118,7 +118,7 @@ Under Review
 [PDF](https://arxiv.org/abs/2505.15265) [code](https://github.com/Pan-Zihao/Blind-Spot-Navigation)
  
 </div>
-</div>
+</div> -->
 
 # 📝 Publications in Mathematics​
 **童宇**,叶知秋,陈华友.[模糊信息协同相关IOWGA算子区间组合预测模型](https://d.wanfangdata.com.cn/periodical/Ch9QZXJpb2RpY2FsQ0hJTmV3UzIwMjUwMTE2MTYzNjE0EhN3aHFjZ3lkeHhiMjAyNDA0MDE3Ggg3dGY2Zmsxag%253D%253D)[J].武汉理工大学学报(信息与管理工程版),2024,46(04):625-630.
