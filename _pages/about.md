@@ -133,7 +133,7 @@ Under Review
 - *2022.08* China College Student Statistical Modeling Competition, First Prize in Anhui Province.
 
 # 📖 Educations
-- *2024.09 - 2026.06 (expected)*, M.S. degree, Wuhan university.
+- *2024.09 - 2026.06*, M.S. degree, Wuhan university.
 - *2020.09 - 2024.06*, B.S. degree, Anhui University. (GPA: 4.27/5.00)
 
 # 💻 Internships
