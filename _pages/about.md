@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working at **Xiaohongshu** in Shanghai. I received my master’s degree from Wuhan University, where I was supervised by [Prof. Hui Feng](https://maths.whu.edu.cn/info/1300/10007.htm). Previously, I worked on multimodal understanding and generation under the guidance of [Prof. Kaiyang Zhou](https://kaiyangzhou.github.io/) and [Prof. Shuai Yang](https://williamyang1991.github.io/). My research interests include **multimodal learning**.
+I am currently working at **Xiaohongshu** in Shanghai. I received my master’s degree from Wuhan University, where I was supervised by [Prof. Hui Feng](https://maths.whu.edu.cn/info/1300/10007.htm). Previously, I worked on multimodal understanding and generation under the guidance of [Prof. Kaiyang Zhou](https://kaiyangzhou.github.io/) and [Prof. Shuai Yang](https://williamyang1991.github.io/). My research interests include **multimodal learning** and **latent space reasoning**.
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 A paper has been accepted by ICML.
